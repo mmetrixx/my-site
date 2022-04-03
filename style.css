@@ -1,0 +1,19 @@
+body {
+    background:rgba(40, 45, 70, 0.315);
+        }
+[href="https://m.vk.com/id395386018?act=fans"] {
+            color: red;
+        }
+[href="#mmetrixx"] {
+    color: firebrick;
+        }     
+[href="https://web.telegram.org/k/"]{
+    color: rgb(208, 127, 255);
+        }
+#mmetrixx {
+   font-weight: bold; color: rgb(131, 126, 199);
+}
+table{
+    border-radius: 5px;
+    border: 2px solid rgba(162, 0, 255, 0.404)
+}
